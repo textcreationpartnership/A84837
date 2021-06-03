@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning to all teachers of children, which are called school-masters and school-mistresses, and to parents, which doth send their children to be taught by them; that all school-masters and school-mistresses may train up children in the fear of God, and bring all children to that of God in them, with which they may come to fear him, and to depart from sin and evil. ... This is to go in the world among all that are called school.masters [sic] and school-mistresses, by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84837</idno><idno type="EEBO-CITATION">99862580</idno>
+  <idno type="VID">168448</idno>
+  <idno type="EEBO-PROQUEST">2248524955</idno>
+  
+            <idno type="STC">Wing F1983</idno>
+            <idno type="STC">Thomason E909_3</idno>
+            <idno type="STC">ESTC R202199</idno>
+            <idno type="PROQUEST">99862580</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862580e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E909[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning to all teachers of children, which are called school-masters and school-mistresses, and to parents, which doth send their children to be taught by them; that all school-masters and school-mistresses may train up children in the fear of God, and bring all children to that of God in them, with which they may come to fear him, and to depart from sin and evil. ... This is to go in the world among all that are called school.masters [sic] and school-mistresses, by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons at the Bull and Mouth neer Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G.F. = George Fox.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "ox. alias Bishop" immediately after 'G. F.'; "Aprill 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Quaker authors --  Early works to 1800.</term>
+               <term type="topical_term">Religious education of children --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168448:1"/>
+            <argument>
+               <p>A VVARNING TO ALL Teachers of Children, Which are called <hi>School-Masters</hi> and <hi>School-Mistresses,</hi> AND To Parents, which doth send their Children to be taught by them; That all School-Masters and School-Mi<g ref="char:EOLhyphen"/>stresses may train up Children in the fear of God, and bring all Children to that of God in them, with which they may come to fear him, and to depart from sin and evil.</p>
+               <p>And how, that they may not be trained up in a customary teaching, and yet live in vanity, not being brought to the fear of God, to their Parents in their old age will they be a grief.</p>
+               <p>Therefore while the chidren are young, both Parents, school-Masters, and school-Mistresses (so called) train the children up in the fear of God while they are young and tender, least they be hardned.</p>
+            </argument>
+            <head>This is to go in the world among all that are called school-Masters and school-Mistresses,</head>
+            <byline>By G.F.<add>ox alias Bishop</add>
+            </byline>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Aprill 23</add>
+                  </date>
+               </dateline>
+            </opener>
+            <div type="part">
+               <p>YE that are School-Masters and Mistresses (so called) and Teach<g ref="char:EOLhyphen"/>ers, of what sort soever, children ought to be taught the fear of the Lord; and see that you do teach them the fear of the Lord;<note place="margin">Psa. 111.10. Prov. 1.7.</note> the fear of the Lord God is to depart from sin, and to depart
+<pb n="2" facs="tcp:168448:2"/> from evil; and here will they come to receive the wisdom of God, which is pure,<note place="margin">Prov. 16 6. 1 Cor. 15.33. Isa. 47.8, 9. Titus 3.3. James 5.5. Eph. 3.29, 30, 31.</note> not earthly, nor sensual, nor devillish; and being trained up in the fear of the Lord, to fear God, corrupt words and speeches, and evil words, and these they will be brought to depart from, which corrupts the good Manners: So now, you that be School-Masters and School-Mistresses, and Teachers of children, and your children that you teach, be found in cor<g ref="char:EOLhyphen"/>rupt words, corrupt speaking, idle communications, and evil communicati<g ref="char:EOLhyphen"/>ons, and wantonness, and filthy pleasures, and filthy jesting, and filthy songs, and filthy Rimes; these actions be all amongst such as be out of the fear of God, Teachers and Schollars; and them which you teach being found in lying, and cursed speaking, and oaths, and mocking, and scoffing, and rep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oaching, and disdaining, and hating, and railing, and reviling, and slandering, and corrupt speeches, and backbiting, and maliciousness, and envy, and pride, and disdain, and in evil words; this shews that their man<g ref="char:EOLhyphen"/>ners is corrupt, though you may teach them all the Scriptures, and they may learn all Books by rote.</p>
+               <p>Therefore all you Teachers of children, all here is nothing worth, while your children are found in these practises; for you that be Teachers, being taught the fear of the Lord, and having departed from sin and evil, and re<g ref="char:EOLhyphen"/>ceived the wisdom of God, with which you should order, and be ordered, then you will know how to teach children the fear of the Lord, with which you will know how to order them, and to teach them the fear of God, and to bring them into the fear of God; which fear of God is to depart from sin and evil, corrupt words, evil communication, wildness, wantonness and plea<g ref="char:EOLhyphen"/>sures, foolish talking, and jesting, and vain sports, and pride, and ambiti<g ref="char:EOLhyphen"/>on,<note place="margin">Prov. 8.13.</note> into lowness and meekness; and from all abusive terms, carriage, posture, jesture, behaviours, and words whatsoever, is contrary to truth; slandering, lying,<note place="margin">Eph. 5.4. Prov. 10.18.</note> mocking, reproaching, telling of Tales, Stories, Jests, Rimes, Fables, which feeds the nature which is out of the fear of God; and that none of them do backbite, call evil Names, Nick-names to any people whatsoever; for evil words corrupts the good Manners; and while those be lived in and acted, and children taught all Books, and Histories, and Languages upon the Earth, yet they being found in the evil words, their Manners is corrupt, and their Language not pure;<note place="margin">Prov. 17.5. Prov. 4.24. Prov. 10.31. 2 Pet. 2.13. Isai. 57.4.</note> the evil not being departed from, their lips perverse and polluted, their tongues uttering forth froward things, speaking perverse words; these be the cursed children, sporting in the day-time, spor<g ref="char:EOLhyphen"/>ting themselves in wickedness which they are deceived by, though they may boast themselves in their learning and languages; so learning these langua<g ref="char:EOLhyphen"/>ges which puffes them up in the naturals, and boasting of that when they be void of the true knowledge and wisdom of God, and the true understan<g ref="char:EOLhyphen"/>ding, and that which should order man, and direct his pathes; these for a time their Parents boast in, and take much delight and glory in them, be<g ref="char:EOLhyphen"/>cause they can speak many Languages in their much learning, but being out of the fear of God, and found in the evil, out of Gods secrets, out of Gods counsel, out of his wisdom, and out of the true understanding, and the true knowledge, which these at the last growing up in yeeres, in pride, and
+<pb n="3" facs="tcp:168448:2"/> in boystrousness, and unruliness, cometh to be a greif unto their Parents,<note place="margin">Prov. 17.25. Jude 10. Prov. 13.24. Eccles. 22.1.</note> and a sorrow, and Runs into the evill Courses, having that which he hath known naturally, in which he hath Corrupted himself, which shall perish in their Corruption; for Children ought all to be trained up in the nurture, and fear of God while they be young; for he that spareth the Rod loveth not the Childe; And Children ought all to be taught to know the witness of God in them, which lets them seesin and transgression; and so that is it which must keep them from wildeness, and wantonness, and corrupt words, and let them know when they speak and act them. Therefore all you School Masters consider what Condition you your selves in stand, and then how you your selves are taught, and then how you teach your children, and what condition you bring them up in, &amp; in what Condition you leave them, and what fruits follows them, and whether many was not better when they came to you, then when they leave you. And again all you School-Mistresses, that teach children fashions according to the Lusts of ignorance, which fashions and Lusts of the world, are to pass away; and moreover teacheth young women to play of Instruments and musick of all kinds,<note place="margin">1 Joh. 2.17.</note> and severall tunes, and teaching them to Dance, and Catches, Songs, and Jests, which makes them lose modesty, and shamefastness, but enlarges bra<g ref="char:EOLhyphen"/>zen-facedness, and boldness, and impudence; this is that which traines up people in that which draws from God, and to keep them out of the fear of God; training them up out of it, in wildeness, and wantonness, and bold<g ref="char:EOLhyphen"/>ness, in defame and disdain, and envying such as be out of their fashions; and these be fitted for them that live in the Lusts of the world, and have great habitation therein, which have not a habitation in God,<note place="margin">1 Jo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2.</note> nor Eter<g ref="char:EOLhyphen"/>nal Life in them, that live and abide in envy: And all ye that teach young men to fence, and keep fencing Schools, consider what you are doing in your very Actions, whether or no you be not training up them, in those Actions that Leads out of the fear of God, to glory in their strength, and to boast in it, wherein it shall fall, and the Carnal weapon,<note place="margin">Jer. 9.23, 24 Phil. 3.18, 19. Eph. 6.13. Mat. 11.29.</note> with all its Arts, and with all its hope, and strength; Therefore come you to the fear of God, to put on the Armour of Light, the Armour of Righteousness, and come all to Christs School and Learn of him, that you may come to know the shield of Faith, and Brest-plate of Righteousness, the Spiritual weapon; And all ye teachers of children and people whatsoever, Consider, for the Lord Jesus Christ is coming to look for fruits amongst you, and to teach himself; <hi>I</hi> am the Light of the world,<note place="margin">John 1.9. Joh. 8.12.</note> and doth enlighten every man that cometh into the world, him by whom it was made, before it was made glorified with the Father before the world began; now you all that be come into the world, Christ having enlightened you all, with which Light you see sin and evill, and know the Truth in the inward parts; which sin and evill must be departed from, before the wisdome of God you come to re<g ref="char:EOLhyphen"/>ceive, which if you act contrary to the Light (which Christ hath enlight<g ref="char:EOLhyphen"/>ned you withall that through the Light you may beleeve) and go from it into evill Communications that corrupt the good manners; as you abide in the Light, which Christ hath enlightned you withall, you will know the
+<pb n="4" facs="tcp:168448:3"/> good manners and teach children the same, which brings them to depart from evill words which corrupts them;<note place="margin">Eph. 5, 13.</note> That children might come to the Light, and hearken to that which lets them see their Transgression, and makes manifest their sin; the Light which Christ doth enlighten every man that cometh into the world withall, which is in them, which will let them see their evill words, and sin, and evill Communications, which must be departed from, for if not, that corrupts the good manners; and the Light will let you see all wantonness and pleasures, foolish talking, and jestings, all must be departed from; and it will teach you soberness and watchfulness, and the fear of God, and to be grave and temperate, and to give good words, and to know good words, and the pure Communicati<g ref="char:EOLhyphen"/>ons,<note place="margin">2 Pet. 3.4.</note> and the good manners which is honourable and of good report; and it will bring you to know the Adorning, which is a meek and a quiet Spirit, which is with the Lord of great price, and this Light (which every one of you be enlightned withal, that be come into the world, which comes from the Father of Light) it will bring you from the Lusts of the Eye [Mark, from the Lusts of the Eye] and the Lusts of the Flesh,<note place="margin">1 John 2.16.</note> and the pride of Life, and the costly Attire, and the costly Array, or of wearing Gold or Silver, and let you to know and see these things, which is not of the Father, but of the World; the Light that comes from the Father, which if you all love, the Light which you are enlightned withall, it will teach you in private when you be by your selves, and when you be among company (both chil<g ref="char:EOLhyphen"/>dren and Teachers) for to forsake that which the Light doth make mani<g ref="char:EOLhyphen"/>fest,<note place="margin">John 3.19, 20.</note> which if you do not, that will be your Condemnation, the Light saith Christ; And so to the Light in you all I speak (and remember that you are all warned in your Life-time) which is my Witness, and your Condemna<g ref="char:EOLhyphen"/>tion, if you hate it.</p>
+               <closer>
+                  <signed>G.F.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:168448:3"/>
+               <p>YOur zeal for God lose not; that which quencheth your zeal for the Lord come to know, in which the life preserves; that which is feigned, and a Will-worship, pleasing the wills of people, and the feigned flattery, quencheth the zeal, and brings in another cloathing; who are clothed with zeal, they have put off that clothing, for that is worn in the night; there is a self-pleasing of men for self-ends, and for gain a flattrie to the face, and then a speaking evil behind the back when the men or the women is gone; and this is deceit and treachery, and falshood amongst people, and dissimulation and hypocrisie; therefore selfishness deny in all things, for out of that ground cometh the men-pleasers Which covereth the prin<g ref="char:EOLhyphen"/>ciple of God, which should lead to please God, and to please men in God, as men deny themselves, curiosity in speech, and quick in knowledge in the earthly selfish principle; here lies the craft, and deceit, and quick in that understanding that comes to nought, and that wisdome that is earthly, for the earth, and for the self, which is to be confounded before it come in<g ref="char:EOLhyphen"/>to Gods wisdome; and that will speak any fair for self-ends, take heed of that principle, and flattery take heed of, but upright, single and true, in that live, and truth in all, changing of the creature, in all speaking to his neighbour, in all dealing, and such you will feel the blessing of the Lord, Gods arm with you, and the feigned, fleshly, selfish hypocrits, who live in a hypocritical profession; but in the earthly selfish principle, all whose Religion stink, and in the eyes of God is an abomination, and for this cause comes Gods plagues upon people, and crosses their wils and their expectati<g ref="char:EOLhyphen"/>ons, and it is right and just so to do.</p>
+               <p>Yee who have been fatted with the creature, and have kicked against the just, and you have called upon God with your lips, and you pray even<g ref="char:EOLhyphen"/>ing and morning, and you are pretending to serve him with your Sermons, and Expressions, and you have read the Prophets words, the Apostles, and my sons words, and when you have done, and while you are doing, your hearts are roaving after your goods, your merchandize, the Creatures; and here you call upon me with your lips, and your hearts are far off; such sa<g ref="char:EOLhyphen"/>crifices are not to be accepted; your prayings, and your readings Prophets and Apostles words, and my sons words, and you not being guided with my spirit, your hypocrisie will manifest it self, your rash words, and your headi<g ref="char:EOLhyphen"/>ness, and your wildness, doth shame your profession in your streets, and doth manifest that you do but serve him with your lips, your old men are grown in the flesh sottish, and foolish, and selfish, and perverse, and wilful, and stubborn, and not grave and temperate; and your old women are prat<g ref="char:EOLhyphen"/>lers, and too full of tongue, and given to talk, and so both old men and old women grieve my spirit, for both are given to vanity, and the lust, and fashions of this world, and vain-talkers, &amp; earthliness, &amp; selfishness; they have been bruitish against my truth, and you have caused my name to bee
+<pb n="6" facs="tcp:168448:4"/> evill spoken of; your young men and maidens are light, and vain, &amp; wild, and heady, and this hath dishonoured me, though they profess my name: So that both old men and young men, and old women and young women, have both dishonoured their profession: young men and young women have both been trained up without my fear, that they be as wild as ever was <hi>Aesa's</hi> Colts, and the young Women be as wild as ever was wild Hei<g ref="char:EOLhyphen"/>fers, and the old men be as fat as ever was the bulls of <hi>Basan;</hi> yee old men and old women have spoiled your children; you have served the desires of your mindes, &amp; served the desires of your childrens mindes, whereby they are given to vanity, following the fashions and the Iusts of ignorance; the pride of life is among you in a high manner, the lust of the eye is among you exceeding full, and the lust of the flesh, which is not of me; but my spirit hath been grieved, which should have mortified this, which should have led you to have worshipped me in my spirit, then should you have known the Prophets words, and the Apostles words, and my Sons words; but except you do all come to feel my Spirit, and that which is manifest in you, which God hath shewed to you, to lead your mindes to God, and to circumcise you; except you do feel my Spirit to do this, you must go down into the pit with all the uncircumcised, though you profess the Prophets, Apostles, and my Sons words.</p>
+               <p>Your eyes have been evill, and your wayes have not been right; you have walked without my fear, and have not given me the honor, but taken it to your selves; And now (saith God) I'le stain it, your Teachers have been fleshly, big up swellen in th flesh, and they have had my Prophets words, my Sons words, but they and you have been out of my Sons life, and the Apostles life, with that now will I measure your wayes, &amp; mea<g ref="char:EOLhyphen"/>sure your lives, and measure your fruits, &amp; measure your Actions, &amp; Deeds, and measure your Assemblies, who hath assembled together, but not by me, but from my Spirit; and I abhor your Fasts, and your Assemblies, they stink, while you are covetous &amp; proud, &amp; hard-hearted, the fruits of this is declared, &amp; not tenderness, the meek of the earth you would destroy, and loftiness is in the extreme seen among you, &amp; you have gloried in my crea<g ref="char:EOLhyphen"/>tures, more then in me the Creator, &amp; surfeted your selves with my creatures, and burdeneth &amp; bondageth the creature with your unreasonableness, yet you will come before me with your lips, pretending to pray unto me, &amp; ser<g ref="char:EOLhyphen"/>ving me, and calling upon me; the deep Dirch hath swallowed up many, and the Pit, vanity &amp; lust, &amp; carelesness drowneth many, and destroyeth many, I am pressed down with your unrighteousness, with your iniquities, &amp; with your bondage of corruption, you have lived out of my fear, so my wisdome and my secrets are hid from you, &amp; you have been presumptuous, boasting of my Prophets, Apostles, and Sons words, but have been one with your fore-fathers that put him to Death; but to me you shall all give an account, I will bring you all to judgement; abundance of feignedness
+<pb n="7" facs="tcp:168448:4"/> of love hath been among you, when I have opened any thing to you, you have quenched my Prophet, the fleshly nature hath boasted in you, of the words in the flesh, and so you have gone in <hi>Cores</hi> and <hi>Zalaams</hi> way into the earth. Again, you have gathered Churches, &amp; set up Churches of your owne making, you have not my power nor my spirit that my Apostles and Prophets were in, therefore Ile break you into Sects, and tread you into heaps, and Ile break you all that trust in man, saith the Lord the Creator of all things, that you may all come to feel my Spirit, and that to lead you into all truth, for they are my Sons that are led by my Spirit.</p>
+               <p>And all your vain contentions, and janglings, and vain disputes, about my Prophets, Apostles, and Sons words, and out of the life, you will I judge, your fruits hath manifested confusion which I have not been the au<g ref="char:EOLhyphen"/>thor of, saith the Lord: But you have transgressed my Spirit, and so brought forth confusion; Darkness hath covered you, mysts and Darkness, so a whirl-winde is among you, a Day of tempest and stormes: What your Teachers have sown (who never heard my voyce, and have not my power and spirit, which my prophets and apostles was in, but have gotten my pro<g ref="char:EOLhyphen"/>phets, apostles, and sons words, and put off their life) they have sown to the flesh, they may reap corruption; they are to reap it, their field is large, e<g ref="char:EOLhyphen"/>very one of their words shal be their burden, who hath spoken in a pre<g ref="char:EOLhyphen"/>tence from me, and have not heard my word nor my voyce, nor is in my Spirit, such soweth vanity, and causeth my people to erre, by your lies &amp; by your lightness, and behold, such <hi>I</hi> am against, saith the Lord God almigh<g ref="char:EOLhyphen"/>ty; You tinckling Simbles (out of my love) that pretend high things, yee sounding Brass, they sound like Brass, (out of my love) there is hay, wood, and stubble brought forth, which when it is touched with the fire it burns; This is from the tryed Corner-stone, that is elect and precious, that abides and remains for ever, which is and was before the world was, and yet was manifested in the world; the world hath got the words which speaks of it, and hath declared the generation of it, the prophets and apostles have; and so you bee out of my Prophets life, you teachers and professors of the World, which hath my prophets and apostles words, that hath declared the generation of the tryed stone, the Corner-stone, but are out of the life, and this stone is set upon all your heads, and on him that it falleth, it <hi>shall grinde him to powder.</hi> This is my word to you all saith the LORD.</p>
+               <p>And all you that be in the bustlings about Christ, a top of the life &amp; witness who wears the old garments of Bryars &amp; thorns, which covers the Light, the Just over you all will go, and doth go, and over you all doth reach, and the power over you all is, and doth fathome, and God over you all is exalted, and will burn up your bryars and thorns. And all peo<g ref="char:EOLhyphen"/>ple
+<pb n="8" facs="tcp:168448:5"/> cease from your talking of God and Christ with the light mindes, (who is not of the world) for this is but of your fleshly knowledge, and the light mindes, which is a manifestation of your erring from my Spirit; that you may come all into my life and Spirit that gave forth Scriptures, that you may know Christ reigns, who doth now reign, and is come to reign over the world, who is the end of his Prophets, who was before the world was made, who now is come to reign and rule the Nations with a rod of i<g ref="char:EOLhyphen"/>ron, Glory in the highest.</p>
+               <closer>
+                  <signed>G.F.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and Mouth neer <hi>Alders<g ref="char:EOLhyphen"/>gate,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
